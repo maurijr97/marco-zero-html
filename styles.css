@@ -17,6 +17,17 @@ body {
   border-radius: 15px;
 }
 
+.francisco-caixa-imagems {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.francisco-caixa {
+  height: 300px;
+  border-radius: 15px;
+}
+
 .texto-inicial {
   text-align: center;
   padding: 50px;
